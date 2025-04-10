@@ -33,6 +33,7 @@ O banco de dados utilizado para armazenar as informações do sistema segue o mo
 
 ## Acessando o MySQL
 Para acessar o banco de dados pelo MySQL, use o terminal com o comando:
+
 mysql -u seu_usuario -p
 
 ## Testar Consultas
