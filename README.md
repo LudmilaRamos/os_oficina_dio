@@ -40,6 +40,7 @@ mysql -u seu_usuario -p
 Você pode testar as tabelas e consultar os dados com comandos SQL, por exemplo:
 
 SELECT * FROM Cliente;
+
 SELECT * FROM Veiculo;
 
 ## Funcionalidade do Sistema
