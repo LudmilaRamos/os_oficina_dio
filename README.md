@@ -38,6 +38,7 @@ mysql -u seu_usuario -p
 
 ## Testar Consultas
 Você pode testar as tabelas e consultar os dados com comandos SQL, por exemplo:
+
 SELECT * FROM Cliente;
 SELECT * FROM Veiculo;
 
